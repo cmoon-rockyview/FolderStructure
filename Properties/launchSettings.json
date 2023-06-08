@@ -1,7 +1,8 @@
 {
   "profiles": {
     "FolderPermission": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "D:\\G_Drive\\ 1 3"
     }
   }
 }

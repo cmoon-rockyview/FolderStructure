@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vEBlaE134IxXBoAqL8Dv4Hh1ZD1rKgVMulB9bszEVwdkp/VMjiHnvhVEsvPPHQxsTgtipEj7KclzuYL/xzKbQA==",
+  "dgSpecHash": "jyo2OSeMiXNb431eZ9DarNev8k3KVDPa/9jbE/Y1iFuLMXfl+ukVhxz8w/aGtQpraiREzG665REZ0OeBJ47zNg==",
   "success": true,
-  "projectFilePath": "D:\\GitHubRepo\\FolderStructure\\FolderPermission\\FolderPermission.csproj",
+  "projectFilePath": "D:\\GitHubRepo\\SetPermissionForFolder\\FolderPermission.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chmoon\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\chmoon\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",

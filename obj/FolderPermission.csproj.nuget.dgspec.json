@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHubRepo\\FolderStructure\\FolderPermission\\FolderPermission.csproj": {}
+    "D:\\GitHubRepo\\SetPermissionForFolder\\FolderPermission.csproj": {}
   },
   "projects": {
-    "D:\\GitHubRepo\\FolderStructure\\FolderPermission\\FolderPermission.csproj": {
+    "D:\\GitHubRepo\\SetPermissionForFolder\\FolderPermission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubRepo\\FolderStructure\\FolderPermission\\FolderPermission.csproj",
+        "projectUniqueName": "D:\\GitHubRepo\\SetPermissionForFolder\\FolderPermission.csproj",
         "projectName": "FolderPermission",
-        "projectPath": "D:\\GitHubRepo\\FolderStructure\\FolderPermission\\FolderPermission.csproj",
+        "projectPath": "D:\\GitHubRepo\\SetPermissionForFolder\\FolderPermission.csproj",
         "packagesPath": "C:\\Users\\chmoon\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubRepo\\FolderStructure\\FolderPermission\\obj\\",
+        "outputPath": "D:\\GitHubRepo\\SetPermissionForFolder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chmoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
