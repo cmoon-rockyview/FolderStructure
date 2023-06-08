@@ -61,8 +61,7 @@ namespace FolderPermission4
 
             if (baseTier >= changeTier)
             {
-                SetPermissions(directoryPath, baseTier);
-
+                SetPermissions(directoryPath);
                 Console.WriteLine($"This Directory Permissions have changed");
             }
 
@@ -75,7 +74,7 @@ namespace FolderPermission4
             }
         }
 
-        public static void SetPermissions(string directoryPath, int tier)
+        public static void SetPermissions(string directoryPath)
         {
        
             // Fetch the current security settings for the given directory
